@@ -12,7 +12,7 @@ and iteroparous if it is characterized by multiple reproductive cycles over the 
 <p>Simply put, this keyboard that i made is the last and endgame for me.</p>
 
 <h2>Pre·requisite</h2>
-Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, there is some requirement for my end game keyboard.
+Since i'm cheap and don't wanna going too deep in this keyboard rabbit hole, there is some requirement for my end game keyboard.
 <br><br>
 • 40% Ortholinear Split
 <br>
@@ -72,7 +72,7 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
     </tr>
 </table>
 
-<h2>Layout (Consept)</h2>
+<h2>Layout (Concept)</h2>
 <h3>Qwerty</h3>
 <img src="./keyboard-layout/keyboard-layout-qwerty.png">
 <h3>Lower</h3>
