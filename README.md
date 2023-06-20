@@ -1,7 +1,9 @@
 <h2>Introduction</h2>
 
 ```
-Semelparity and iteroparity are two contrasting reproductive strategies available to living organisms. A species is considered semelparous if it is characterized by a single reproductive episode before death, and iteroparous if it is characterized by multiple reproductive cycles over the course of its lifetime.
+Semelparity and iteroparity are two contrasting reproductive strategies available to living organisms.
+A species is considered semelparous if it is characterized by a single reproductive episode before death,
+and iteroparous if it is characterized by multiple reproductive cycles over the course of its lifetime.
 ```
 ```
 > producing only once in a lifetime
@@ -19,6 +21,8 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
 • 5mm Thick Acrylic Plate
 <br>
 • Handwired
+<br>
+• Only use one µcontroller
 <br>
 • Hotswap Pins (So i can resell the switch)
 <br>
@@ -43,6 +47,10 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
         <td>2</td>
     </tr>
     <tr>
+        <td>10mm / 15mm M3 Female to Female Spacer</td>
+        <td>6</td>
+    </tr>
+    <tr>
         <td>Raspberry Pi Pico (RP2040)</td>
         <td>1</td>
     </tr>
@@ -51,7 +59,7 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
         <td>48</td>
     </tr>
     <tr>
-        <td>Kailh Hot-Swap Socket</td>
+        <td>TTC Pokayoke Pro Hot-Swap Socket</td>
         <td>48</td>
     </tr>
     <tr>
@@ -64,7 +72,7 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
     </tr>
 </table>
 
-<h2>Layout</h2>
+<h2>Layout (Consept)</h2>
 <h3>Qwerty</h3>
 <img src="./keyboard-layout/keyboard-layout-qwerty.png">
 <h3>Lower</h3>
@@ -73,4 +81,8 @@ Since i'm cheap and don't wanna going to deep in this keyboard rabbit hole, ther
 <img src="./keyboard-layout/keyboard-layout-raise.png">
 
 <h2>Updates</h2>
--
+• Fund problem
+<br>
+• Loan switch from alexandrovna (Gateron Red Switch)
+<br>
+• Discussing plate design with dysfunctionaldystopia (Both top and bottom plate)
