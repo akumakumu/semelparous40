@@ -81,8 +81,10 @@ Since i'm cheap and don't wanna going too deep in this keyboard rabbit hole, the
 <img src="./keyboard-layout/keyboard-layout-raise.png">
 
 <h2>Updates</h2>
-• Fund problem
-<br>
 • Loan switch from alexandrovna (Gateron Red Switch)
 <br>
+• Loan switch from dysfunctionaldystopia (Gateron KS3 Black)
+<br>
 • Discussing plate design with dysfunctionaldystopia (Both top and bottom plate)
+<br>
+• Considering to spring swap Gateron KS3 Black with 35g spring
