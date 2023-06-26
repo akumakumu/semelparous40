@@ -88,3 +88,5 @@ Since i'm cheap and don't wanna going too deep in this keyboard rabbit hole, the
 • Discussing plate design with dysfunctionaldystopia (Both top and bottom plate)
 <br>
 • Considering to spring swap Gateron KS3 Black with 35g spring
+<br>
+• Designing Top and Bottom Plate
